@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Evidencia-final-web.Server.props" />
+</Project>

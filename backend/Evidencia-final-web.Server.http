@@ -1,0 +1,6 @@
+@Evidencia_final_web.Server_HostAddress = http://localhost:5204
+
+GET {{Evidencia_final_web.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Evidencia-final-web.Server.props" />
+</Project>
